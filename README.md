@@ -3,10 +3,10 @@ Financial Data Extraction System Using OpenAI API
 
 
 
-Description:
+# Description:
 This repository contains code for a Financial Data Extraction System utilizing the OpenAI API. The system is designed to extract key financial metrics such as company name, revenue, net income, earnings per share (EPS), and corresponding stock symbols from either a pasted news article or a provided website URL. The extraction process leverages OpenAI's powerful GPT-3.5 model, enabling accurate and efficient data retrieval.
 
-Features:
+# Features:
 
 Flexible Extraction Methods: Users can choose between pasting a financial news article or entering a website URL to extract relevant financial data.
 Automated Data Retrieval: The system utilizes the OpenAI API to automatically extract financial metrics from textual input, ensuring consistency and reliability.
@@ -15,7 +15,7 @@ Error Handling: The system gracefully handles cases where the required financial
 
 
 
-Usage:
+# Usage
 
 Clone the repository to your local machine.
 Install the required dependencies listed in the requirements.txt file.
@@ -27,3 +27,13 @@ Contributions to enhance the system's functionality, improve performance, or add
 License: This project is licensed under the MIT License. See the LICENSE file for details.
 
 Disclaimer: The accuracy and completeness of extracted financial data may vary based on the input text and the capabilities of the OpenAI model. Users should verify extracted information for accuracy before making financial decisions.
+
+
+
+
+
+
+
+https://github.com/waqarali-pythonista/Financial-Data-Extraction-System-Using-OpenAI-API/assets/130203895/75fbca7d-11fa-4aa3-b171-e1bc449fe192
+
+
